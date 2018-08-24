@@ -1,0 +1,204 @@
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro");
+
+nav {
+  margin: 0 20px 0 0;
+  background-color: #C12127;
+  color: rgba(255,255,255,0.8);
+  padding-top: 5px;
+  padding-bottom: 5px;
+  height: 20px;
+  width: 100%
+}
+
+nav a {
+  color: rgba(255,255,255,0.8);
+  text-decoration: none;
+}
+.top-links {
+  float: right;
+  padding: 0;
+  margin: 0 20px 0 0;
+}
+
+.top-links li {
+  display: inline-block;
+  margin: 0 10px;
+}
+.top-left  {
+  display: inline-block;
+  margin: 0 20px 0 0;
+}
+
+body{
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+.fondoa{
+background-image: url("./images/city-scape.svg");
+background-repeat: no-repeat;
+margin: 0 auto;
+width: 100%;
+height: 650px;
+}
+
+.display{
+width: 100%;
+height: 80px;
+margin:10px;}
+
+.imagen1{
+ float:left;
+  width: 7%;
+  height: 40px;
+  margin-top: 5px;}
+.input1{
+  float:left;
+  width: 70%;
+  height: 40px;
+  margin: 5px 20px 0 20px;
+  background: rgb(31, 82, 111)
+}
+
+.standarlink {
+  color: rgba(255,255,255,0.8);
+  text-decoration: none;
+}
+.or {
+
+  color: rgba(255,255,255,0.8);
+  margin-left: 5px;
+  margin-right: 5px;
+}
+.tamaño{
+  float:left;
+  width: 10%;
+  height: 40px;
+  margin-top: 5px;
+  padding-top: 7px;
+}
+ 
+.imagen2{
+  float:left;
+  width: 4%;
+  height: 40px;
+  margin-top: 5px;
+}
+  .clearfix { clear: both; }
+  header h1{
+    font-size: 3em;
+  }
+  #colaboration h1{
+    font-size: 2em;
+  }
+  #whatisnpm h1{
+    font-size: 2em;
+  }
+
+#final h1{
+  font-size: 3em;
+}
+
+  .text2block {
+    color: white;
+    margin: 0 auto;
+    width: 50%;
+    height: 50%;
+    
+  }
+  .text2s {
+    font-size: 18px;
+    color: white;
+   
+  }
+  .boton{
+    border-width: 1px;
+    border-style: solid;
+    color: white;
+    padding: 2px;
+    margin-top: 15px;
+    border-radius: 30px;
+    height: 40px;
+    text-decoration: none;
+  
+  }
+  .boton1{
+    border-color: rgb(240, 146, 51);
+    background-color: rgb(240, 146, 51);
+    width: 180px;
+  }
+  .boton2{
+    border-color: rgb(203, 56, 55);
+    background-color: rgb(203, 56, 55);
+    width: 180px;
+  }
+
+.colaboration1{
+  background-color: 
+  rgb(39, 53, 71);
+  width: 100%;
+height: 650px;
+}
+
+.centrado{
+  margin: 0 auto;
+  width: 60%;
+}
+
+.img3{
+  width: 40%;
+  height: 70%;
+  float: left;
+  padding-top: 15%;
+  padding-left: 5%;
+  }
+
+.caja1{
+width: 40%;
+color:white;
+float: left;
+padding-top: 9%;
+padding-left: 5%;
+text-align: left
+
+}
+.whatback{
+  background-image: url("./images/forklift.svg");
+  background-size: cover;
+  height: 650px;
+  position: relative;
+}
+.reposition{
+color: white;
+position: absolute;
+left: 27%;
+top: 30%
+}
+.boton3{
+
+border-color: rgb(49, 68, 88);
+  background-color:  rgb(49, 68, 88);
+  width: 180px;
+}
+.optionboxmadre{
+  margin: 5% auto;
+  width: 60%;
+ 
+  }
+.optionbox{
+  display: inline-block;
+    width: 33%;
+    text-align: center;
+  }
+  
+  .centrartexto{
+text-align: center
+
+  }
+  .fondototal{
+    background-color: rgb(255, 255, 255);
+    height: 650px;
+  }
+  #final a{
+    color: rgb(208, 74, 73);
+    text-decoration: none;
+  }
